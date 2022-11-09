@@ -13,3 +13,25 @@ Die Erkenntnisse, die aus den einzelnen Analysen der Beiträge abgeleitet werden
 
 
 ## Supplementary Material
+
+### Syntax
+
+#### Ten Reasons Why Research Collaborations Succeed – A Random Forest Approach
+
+```{r child = './Syntax/Beitrag.1.Rmd'}
+```
+
+#### Coopetition between Frenemies – Interrelations and Effects of Seven Collaboration Problems in Research Clusters
+
+```{r child = './Syntax/Beitrag.2.Rmd'}
+```
+
+#### Internal Factors Promoting Research Collaboration Problems – An Input-Process-Output Analysis
+
+```{r child = './Syntax/Beitrag.3.Rmd'}
+```
+
+#### How Do Researchers Perceive Problems in Research Collaboration? Results From a Large-Scale Study of German Scientists
+
+```{r child = './Syntax/Beitrag.4.Rmd'}
+```
