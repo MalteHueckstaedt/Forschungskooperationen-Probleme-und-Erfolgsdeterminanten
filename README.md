@@ -1,9 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# tidyverse <a href='https://tidyverse.tidyverse.org'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
-
-# Forschungskooperationen - Probleme und Erfolgsdeterminanten
+# Forschungskooperationen - Probleme und Erfolgsdeterminanten <a href='https://tidyverse.tidyverse.org'><img src='https://github.com/MalteHueckstaedt/PhD_Supplementary_Material/blob/main/1024px-Leibniz-Universita%CC%88t_Hannover.svg.png' align="right" height="138.5" /></a>
 
 ## Abstract
 
