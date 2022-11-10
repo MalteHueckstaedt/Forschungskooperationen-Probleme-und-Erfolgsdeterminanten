@@ -1,5 +1,5 @@
 
-<a href='https://tidyverse.tidyverse.org'><img src='https://github.com/MalteHueckstaedt/PhD_Supplementary_Material/blob/main/1024px-Leibniz-Universita%CC%88t_Hannover.svg.png' align="right" height="138.5" /></a>
+<a href='https://www.uni-hannover.de/de/'><img src='https://github.com/MalteHueckstaedt/PhD_Supplementary_Material/blob/main/1024px-Leibniz-Universita%CC%88t_Hannover.svg.png' align="right" height="138.5" /></a>
 
 # Dissertationsprojekt: Forschungskooperationen - Probleme und Erfolgsdeterminanten 
 
@@ -52,12 +52,10 @@ Die Erkenntnisse, die aus den einzelnen Analysen der Beiträge abgeleitet werden
 
 ### Syntax
 
-#### Ten Reasons Why Research Collaborations Succeed – A Random Forest Approach
+- Beitrag Nr.1: Ten Reasons Why Research Collaborations Succeed – A Random Forest Approach: https://gist.github.com/MalteHueckstaedt/2476e5d2d5ab706129417eec56a58f71
 
-<script src="https://gist.github.com/MalteHueckstaedt/2476e5d2d5ab706129417eec56a58f71.js"></script>
+- Beitrag Nr.2: Coopetition between Frenemies – Interrelations and Effects of Seven Collaboration Problems in Research Clusters
 
-#### Coopetition between Frenemies – Interrelations and Effects of Seven Collaboration Problems in Research Clusters
+- Beitrag Nr.3: Internal Factors Promoting Research Collaboration Problems – An Input-Process-Output Analysis
 
-#### Internal Factors Promoting Research Collaboration Problems – An Input-Process-Output Analysis
-
-#### How Do Researchers Perceive Problems in Research Collaboration? Results From a Large-Scale Study of German Scientists
+- Beitrag Nr.4: How Do Researchers Perceive Problems in Research Collaboration? Results From a Large-Scale Study of German Scientists
