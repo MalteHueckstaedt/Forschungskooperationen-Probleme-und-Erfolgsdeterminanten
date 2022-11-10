@@ -3,7 +3,7 @@
 
 # Forschungskooperationen - Probleme und Erfolgsdeterminanten <a href='https://tidyverse.tidyverse.org'><img src='https://github.com/MalteHueckstaedt/PhD_Supplementary_Material/blob/main/1024px-Leibniz-Universita%CC%88t_Hannover.svg.png' align="right" height="138.5" /></a>
 
-## Hintergrund der Dissertation: Das Verbundprojekt DEKiF
+## Hintergrund der Dissertation: Das Verbundprojektes _Determinanten und Effekte von Kooperation in homogenen und heterogenen Forschungsverbünden_ (DEKiF)
 
 Die Forschung in homogenen und heterogenen Kollaborationszusammenhängen gewinnt zunehmend an Bedeutung. Durch die Verknüpfung von Kompetenzen, Sichtweisen, Erfahrungen, Ressourcen und Persönlichkeiten bieten wissenschaftliche Kooperationen unverzichtbare Chancen zur Erzeugung innovativer Erkenntnisse. Zugleich bestehen aber auch mannigfaltige Hindernisse, die fruchtbare Kooperationen erschweren. Im Projekt Verbundprojekt DEKIF wurde daher der Frage nachgegangen, welche internen Kooperationsprobleme in Forschungsverbünden auftreten, welche Ursachen und Rahmenbedingungen dafür maßgeblich sind und wie sich die Probleme auf Erfolg und Produktivität von Forschungsverbünden auswirken. Zugleich wurde ermittelt, welche Strategien Forschungsverbünde anwenden, um die auftretenden Probleme zu lösen oder bereits im Vorfeld zu vermeiden. Vorgesehen ist, aus den zu generierenden Ergebnissen Vorschläge zur Vermeidung und/oder Lösung von Kooperationsproblemen abzuleiten.
 
