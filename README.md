@@ -10,6 +10,36 @@ Die Forschung in homogenen und heterogenen Kollaborationszusammenhängen gewinnt
 Die Studie folgte einem triangulierenden Mixed Methods-Design: Sie setzte sich zusammen aus einer explorativen Fallstudie, einem quantitativen Survey, bibliometrischen Analysen sowie vertiefenden Fallstudien in verschiedenen Untersuchungsfeldern.
 Das Projekt DEKiF wurde vom Bundesministerium für Bildung und Forschung (BMBF) bis 2022 gefördert. Seine Durchführung erfolgt in einer Kooperation zwischen dem DZHW (Abteilungen Governance in Hochschule und Wissenschaft und Forschungssystem und Wissenschaftsdynamik), der Heinrich-Heine-Universität Düsseldorf (Prof. Dr. Gerhard Vowe) und dem Stifterverband für die Deutsche Wissenschaft (Dr. Mathias Winde).
 
+## Der Websurvey des Verbundprojekts DEKiF 
+
+Der Websurvey des Verbundprojekts DEKiF hat (1) die Prozesse der Zusammenarbeit in DFG-Forschungsverbünden, (2) die dabei auftretenden Probleme sowie (3) die subjektive Einschätzung des Erfolgs des Verbundes aus Sicht der Befragten untersucht. Die Prozesse, auftretende Probleme und Erfolgseinschätzungen wurden zudem zu den Rahmenbedingungen (z.B. der personellen, räumlichen oder fachlichen Heterogenität) von Forschungsverbünden in Beziehung gesetzt. Im Einzelnen wurden dabei folgende Fragen bearbeitet:
+
+- Welchen Effekt üben verschiedene Prozesse und Formen der Verbundarbeit auf die Eintrittswahrscheinlichkeit und die Intensität von Kooperationsproblemen aus?
+- Wie wirken sich die verschiedenen Prozesse und Formen der Verbundarbeit auf die subjektiv eingeschätzten Erfolgschancen der Zusammenarbeit aus?
+- Welchen Effekt üben auftretende Kooperationsprobleme auf die subjektiv eingeschätzten Erfolgschancen der Zusammenarbeit aus?
+- Wie wirken sich die Rahmenbedingungen von Forschungsverbünden auf den operativen Betrieb, die Eintrittswahrscheinlichkeit und die Intensität verschiedener Arten von Kooperationsproblemen sowie auf die eingeschätzten Erfolgschancen der Zusammenarbeit aus?
+
+Themenblöcke der ca. 15-minütigen Befragung waren des Weiteren:
+
+- Initiierung und Auswahl der Verbundmitglieder
+- Formen der Verbundarbeit
+- Kommunikation im Verbund
+- Entwicklung gemeinsamer Forschungsfragen und Verbundziele
+- Voraussetzungen bzw. Verfahren für die Integration von Forschungsergebnissen
+- Leitung und Koordination des Verbundes
+- Praktizierte Entscheidungsverfahren
+- Zusammenarbeit im Verbund
+- Probleme im Zusammenhang mit der Verbundarbeit
+- Erfolg der Verbundarbeit
+- Best Practice von Verbundarbeit
+- Persönliche Erwartungen an die Mitwirkung im Forschungsverbund
+- Randbedingungen des Forschungsverbundes
+- Demografie
+ 
+Der inhaltliche Bezugspunkt des Websurveys war die Kooperation auf Verbundebene, also die Zusammenarbeit zwischen der Verbundleitung (Sprecher*in) und den Principal Investigators (Teilprojektleiter*innen/Antragsteller*innen). Die Zusammenarbeit innerhalb der Teilprojekte war nicht Gegenstand der Befragung.
+
+Unter Verbundebene wird im Rahmen des Websurveys jene Ebene von Forschungsverbünden verstanden, auf der die Verbundleitung (Sprecher*in) und die Principal Investigator (Teilprojektleiter*innen/Antragsteller*innen) teilprojektübergreifend an der Erreichung der gemeinsamen Verbundziele arbeiten.
+
 ## Abstract der publikationsbasierte Dissertation
 
 Die publikationsbasierte Dissertation geht der Frage nach, welche Faktoren (1) dazu führen, dass Forschungsverbünde erfolgreich sind. Ebenso widmet sie sich der Frage, wie auftretende Kooperationsprobleme sich (2) aufeinander sowie (3) auf den Erfolg von Forschungsverbünden auswirken, unter welchen Bedingungen sie (4) entstehen und welche Relevanz ihnen (5) im Kontext verbundförmiger Forschung zukommt. Zur Beantwortung der fünf Teilfragen der Dissertation wird ein quantitatives Methodendesign verfolgt, das den empirischen Fokus auf die Kooperation von Principal Investigators und Sprecher\*innen von ausgewählten Forschungsverbünden der Deutschen Forschungsgemeinschaft (DFG) legt: Um die wichtigsten Einflussgrößen des Erfolgs von Forschungsverbünden zu explorieren, wird im Kontext des [ersten](#beitrag1) Beitrages der Dissertation eine _Random Forest_-Analyse durchgeführt. Um die direkten und indirekten Entstehungskontexte und Effekte von Forschungskooperationsproblemen zu analysieren, werden im Rahmen des [zweiten](#beitrag2) und [dritten](#beitrag3) Beitrages der Dissertation _Strukturgleichungsmodellierungen_ berechnet. Zur Beantwortung der Frage nach der Relevanz von Kooperationsproblemen sowie möglicher, systematischer Unterschiede zwischen verschiedenen Forschenden und Forschungsverbünden wird schließlich im Kontext des [vierten](#beitrag4) Beitrages neben deskriptiven und explorativen Analysen eine _permutationale, multivariate Varianzanalyse_ berechnet.
