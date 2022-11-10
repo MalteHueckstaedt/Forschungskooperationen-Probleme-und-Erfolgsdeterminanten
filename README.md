@@ -54,8 +54,8 @@ Die Erkenntnisse, die aus den einzelnen Analysen der Beiträge abgeleitet werden
 
 - Beitrag Nr.1: Ten Reasons Why Research Collaborations Succeed – A Random Forest Approach: https://gist.github.com/MalteHueckstaedt/2476e5d2d5ab706129417eec56a58f71
 
-- Beitrag Nr.2: Coopetition between Frenemies – Interrelations and Effects of Seven Collaboration Problems in Research Clusters
+- Beitrag Nr.2: Coopetition between Frenemies – Interrelations and Effects of Seven Collaboration Problems in Research Clusters: https://gist.github.com/MalteHueckstaedt/05faa6b5ad3c7e1c10f51626755c90be
 
-- Beitrag Nr.3: Internal Factors Promoting Research Collaboration Problems – An Input-Process-Output Analysis
+- Beitrag Nr.3: Internal Factors Promoting Research Collaboration Problems – An Input-Process-Output Analysis: https://gist.github.com/MalteHueckstaedt/075b45562f59b228ac3e0b62ab60fab3
 
-- Beitrag Nr.4: How Do Researchers Perceive Problems in Research Collaboration? Results From a Large-Scale Study of German Scientists
+- Beitrag Nr.4: How Do Researchers Perceive Problems in Research Collaboration? Results From a Large-Scale Study of German Scientists: https://gist.github.com/MalteHueckstaedt/3a57cb71eb69a291d887bbabf63f06af
