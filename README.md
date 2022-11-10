@@ -54,6 +54,8 @@ Die Erkenntnisse, die aus den einzelnen Analysen der Beiträge abgeleitet werden
 
 #### Ten Reasons Why Research Collaborations Succeed – A Random Forest Approach
 
+<script src="https://gist.github.com/MalteHueckstaedt/2476e5d2d5ab706129417eec56a58f71.js"></script>
+
 #### Coopetition between Frenemies – Interrelations and Effects of Seven Collaboration Problems in Research Clusters
 
 #### Internal Factors Promoting Research Collaboration Problems – An Input-Process-Output Analysis
